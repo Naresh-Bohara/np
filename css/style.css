@@ -89,6 +89,9 @@ button:hover{
     a{
         color: blue;
     }
+a:hover{
+        background-color:rgb(19, 243, 19);
+    }
     
     .copyright{
     background-color: black;
