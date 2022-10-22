@@ -1,7 +1,7 @@
 body{
     margin: 0;
     text-align: center;
-    font-family:/*'Merriweather',serif*/  sans-serif ; 
+    font-family:'Montserrat', sans-serif ; 
    background-color:#DFD3C3 ;
     
 }
@@ -59,8 +59,11 @@ h3{
 p{
     font-size: 20px;
 }
+.imagep{
+    height:30vw;
+}
 .image{
-    height: 15vw;
+    height: 20vw;
     }
     .middle-container{
         background-color:#DFD3C3;
